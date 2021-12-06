@@ -1,0 +1,265 @@
+{
+  "success": true,
+  "code": "SUCCESS",
+  "data": {
+    "hoverDataList": [
+      {
+        "name": "puducherry",
+        "metric": [
+          { "type": "TOTAL", "count": 716826, "amount": 1.4607083574554102e9 }
+        ]
+      },
+      {
+        "name": "tamil nadu",
+        "metric": [
+          { "type": "TOTAL", "count": 41410183, "amount": 7.895960464363503e10 }
+        ]
+      },
+      {
+        "name": "uttar pradesh",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 68623959,
+            "amount": 1.1126813747502843e11
+          }
+        ]
+      },
+      {
+        "name": "madhya pradesh",
+        "metric": [
+          { "type": "TOTAL", "count": 53610411, "amount": 7.767632149122867e10 }
+        ]
+      },
+      {
+        "name": "andhra pradesh",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 76288614,
+            "amount": 1.3944794425478943e11
+          }
+        ]
+      },
+      {
+        "name": "tripura",
+        "metric": [
+          { "type": "TOTAL", "count": 711717, "amount": 1.017377422817224e9 }
+        ]
+      },
+      {
+        "name": "lakshadweep",
+        "metric": [
+          { "type": "TOTAL", "count": 3104, "amount": 9651761.463768471 }
+        ]
+      },
+      {
+        "name": "manipur",
+        "metric": [
+          { "type": "TOTAL", "count": 345008, "amount": 8.63552002562933e8 }
+        ]
+      },
+      {
+        "name": "maharashtra",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 148735581,
+            "amount": 1.9961750674494272e11
+          }
+        ]
+      },
+      {
+        "name": "dadra & nagar haveli & daman & diu",
+        "metric": [
+          { "type": "TOTAL", "count": 638751, "amount": 9.614714738483732e8 }
+        ]
+      },
+      {
+        "name": "meghalaya",
+        "metric": [
+          { "type": "TOTAL", "count": 306550, "amount": 6.12218602153532e8 }
+        ]
+      },
+      {
+        "name": "andaman & nicobar islands",
+        "metric": [
+          { "type": "TOTAL", "count": 33770, "amount": 1.1407177608729392e8 }
+        ]
+      },
+      {
+        "name": "haryana",
+        "metric": [
+          { "type": "TOTAL", "count": 30343531, "amount": 5.248911919944011e10 }
+        ]
+      },
+      {
+        "name": "rajasthan",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 67303617,
+            "amount": 1.1246829003192343e11
+          }
+        ]
+      },
+      {
+        "name": "ladakh",
+        "metric": [
+          { "type": "TOTAL", "count": 92396, "amount": 3.3112952719382226e8 }
+        ]
+      },
+      {
+        "name": "punjab",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 10706812,
+            "amount": 2.2905815605843315e10
+          }
+        ]
+      },
+      {
+        "name": "assam",
+        "metric": [
+          { "type": "TOTAL", "count": 5942571, "amount": 1.2950443620426579e10 }
+        ]
+      },
+      {
+        "name": "jharkhand",
+        "metric": [
+          { "type": "TOTAL", "count": 14220647, "amount": 2.146597399335938e10 }
+        ]
+      },
+      {
+        "name": "odisha",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 41422272,
+            "amount": 5.7304577359217094e10
+          }
+        ]
+      },
+      {
+        "name": "bihar",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 32139900,
+            "amount": 6.7692783254273834e10
+          }
+        ]
+      },
+      {
+        "name": "kerala",
+        "metric": [
+          { "type": "TOTAL", "count": 9286096, "amount": 1.6429809722064445e10 }
+        ]
+      },
+      {
+        "name": "karnataka",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 170733735,
+            "amount": 2.1453672043818292e11
+          }
+        ]
+      },
+      {
+        "name": "chandigarh",
+        "metric": [
+          { "type": "TOTAL", "count": 1506543, "amount": 3.2696820876608405e9 }
+        ]
+      },
+      {
+        "name": "telangana",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 121495376,
+            "amount": 2.0193002113042365e11
+          }
+        ]
+      },
+      {
+        "name": "himachal pradesh",
+        "metric": [
+          { "type": "TOTAL", "count": 2735180, "amount": 5.572018781123304e9 }
+        ]
+      },
+      {
+        "name": "west bengal",
+        "metric": [
+          { "type": "TOTAL", "count": 66444829, "amount": 7.054053261682985e10 }
+        ]
+      },
+      {
+        "name": "gujarat",
+        "metric": [
+          { "type": "TOTAL", "count": 38228649, "amount": 5.946269496426753e10 }
+        ]
+      },
+      {
+        "name": "sikkim",
+        "metric": [
+          { "type": "TOTAL", "count": 552436, "amount": 8.847164484404289e8 }
+        ]
+      },
+      {
+        "name": "nagaland",
+        "metric": [
+          { "type": "TOTAL", "count": 261878, "amount": 6.509564717134112e8 }
+        ]
+      },
+      {
+        "name": "mizoram",
+        "metric": [
+          { "type": "TOTAL", "count": 98094, "amount": 2.787938999513421e8 }
+        ]
+      },
+      {
+        "name": "chhattisgarh",
+        "metric": [
+          { "type": "TOTAL", "count": 12243111, "amount": 1.980325916745372e10 }
+        ]
+      },
+      {
+        "name": "jammu & kashmir",
+        "metric": [
+          { "type": "TOTAL", "count": 1116526, "amount": 3.7442304917824554e9 }
+        ]
+      },
+      {
+        "name": "goa",
+        "metric": [
+          { "type": "TOTAL", "count": 1092416, "amount": 2.000367191496843e9 }
+        ]
+      },
+      {
+        "name": "arunachal pradesh",
+        "metric": [
+          { "type": "TOTAL", "count": 370234, "amount": 9.126450347958709e8 }
+        ]
+      },
+      {
+        "name": "delhi",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 69537876,
+            "amount": 1.0319681204645712e11
+          }
+        ]
+      },
+      {
+        "name": "uttarakhand",
+        "metric": [
+          { "type": "TOTAL", "count": 5710476, "amount": 9.729032070017406e9 }
+        ]
+      }
+    ]
+  },
+  "responseTimestamp": 1630502909429
+}

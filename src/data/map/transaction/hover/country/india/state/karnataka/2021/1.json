@@ -1,0 +1,193 @@
+{
+  "success": true,
+  "code": "SUCCESS",
+  "data": {
+    "hoverDataList": [
+      {
+        "name": "mysuru district",
+        "metric": [
+          { "type": "TOTAL", "count": 17089151, "amount": 2.818340686366486e10 }
+        ]
+      },
+      {
+        "name": "chitradurga district",
+        "metric": [
+          { "type": "TOTAL", "count": 3714510, "amount": 7.565985784453019e9 }
+        ]
+      },
+      {
+        "name": "kalaburagi district",
+        "metric": [
+          { "type": "TOTAL", "count": 6439886, "amount": 1.3881496062286669e10 }
+        ]
+      },
+      {
+        "name": "ramanagara district",
+        "metric": [
+          { "type": "TOTAL", "count": 5830609, "amount": 1.0303526389686382e10 }
+        ]
+      },
+      {
+        "name": "mandya district",
+        "metric": [
+          { "type": "TOTAL", "count": 5158134, "amount": 1.0841975091163118e10 }
+        ]
+      },
+      {
+        "name": "kodagu district",
+        "metric": [
+          { "type": "TOTAL", "count": 1380725, "amount": 2.645865957006945e9 }
+        ]
+      },
+      {
+        "name": "chikkamagaluru district",
+        "metric": [
+          { "type": "TOTAL", "count": 2605701, "amount": 5.185000583956051e9 }
+        ]
+      },
+      {
+        "name": "haveri district",
+        "metric": [
+          { "type": "TOTAL", "count": 2390787, "amount": 4.651874088262499e9 }
+        ]
+      },
+      {
+        "name": "ballari district",
+        "metric": [
+          { "type": "TOTAL", "count": 9904822, "amount": 1.883726051048218e10 }
+        ]
+      },
+      {
+        "name": "belagavi district",
+        "metric": [
+          { "type": "TOTAL", "count": 10602642, "amount": 1.893104105105792e10 }
+        ]
+      },
+      {
+        "name": "kolar district",
+        "metric": [
+          { "type": "TOTAL", "count": 7957144, "amount": 1.472458247043729e10 }
+        ]
+      },
+      {
+        "name": "uttara kannada district",
+        "metric": [
+          { "type": "TOTAL", "count": 2580942, "amount": 4.520088579643313e9 }
+        ]
+      },
+      {
+        "name": "tumakuru district",
+        "metric": [
+          { "type": "TOTAL", "count": 9386009, "amount": 1.7694897997486073e10 }
+        ]
+      },
+      {
+        "name": "yadgir district",
+        "metric": [
+          { "type": "TOTAL", "count": 1755607, "amount": 4.623935210174469e9 }
+        ]
+      },
+      {
+        "name": "bengaluru urban district",
+        "metric": [
+          {
+            "type": "TOTAL",
+            "count": 348712787,
+            "amount": 4.324013412317671e11
+          }
+        ]
+      },
+      {
+        "name": "chikkaballapura district",
+        "metric": [
+          { "type": "TOTAL", "count": 5027581, "amount": 1.0585085072149288e10 }
+        ]
+      },
+      {
+        "name": "davanagere district",
+        "metric": [
+          { "type": "TOTAL", "count": 9322884, "amount": 1.7155680177783762e10 }
+        ]
+      },
+      {
+        "name": "bagalkote district",
+        "metric": [
+          { "type": "TOTAL", "count": 4033439, "amount": 8.239831522642422e9 }
+        ]
+      },
+      {
+        "name": "vijayapura district",
+        "metric": [
+          { "type": "TOTAL", "count": 5145667, "amount": 1.1170578518368378e10 }
+        ]
+      },
+      {
+        "name": "koppal district",
+        "metric": [
+          { "type": "TOTAL", "count": 3042763, "amount": 6.139670045277093e9 }
+        ]
+      },
+      {
+        "name": "bidar district",
+        "metric": [
+          { "type": "TOTAL", "count": 5209226, "amount": 1.092590735223449e10 }
+        ]
+      },
+      {
+        "name": "bengaluru rural district",
+        "metric": [
+          { "type": "TOTAL", "count": 12387231, "amount": 1.873572215672461e10 }
+        ]
+      },
+      {
+        "name": "raichur district",
+        "metric": [
+          { "type": "TOTAL", "count": 4719196, "amount": 1.071794367571631e10 }
+        ]
+      },
+      {
+        "name": "chamarajanagara district",
+        "metric": [
+          { "type": "TOTAL", "count": 1380973, "amount": 2.890358122602378e9 }
+        ]
+      },
+      {
+        "name": "dakshina kannada district",
+        "metric": [
+          { "type": "TOTAL", "count": 9626991, "amount": 1.5430015647494526e10 }
+        ]
+      },
+      {
+        "name": "hassan district",
+        "metric": [
+          { "type": "TOTAL", "count": 4852456, "amount": 1.047210975871391e10 }
+        ]
+      },
+      {
+        "name": "dharwad district",
+        "metric": [
+          { "type": "TOTAL", "count": 11396406, "amount": 1.632041666527951e10 }
+        ]
+      },
+      {
+        "name": "shivamogga district",
+        "metric": [
+          { "type": "TOTAL", "count": 6961180, "amount": 1.2979261424243988e10 }
+        ]
+      },
+      {
+        "name": "udupi district",
+        "metric": [
+          { "type": "TOTAL", "count": 2999356, "amount": 4.318595833417577e9 }
+        ]
+      },
+      {
+        "name": "gadag district",
+        "metric": [
+          { "type": "TOTAL", "count": 2182687, "amount": 3.921903568216193e9 }
+        ]
+      }
+    ]
+  },
+  "responseTimestamp": 1630502911431
+}

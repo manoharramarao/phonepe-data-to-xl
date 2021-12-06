@@ -1,0 +1,172 @@
+{
+  "success": true,
+  "code": "SUCCESS",
+  "data": {
+    "states": null,
+    "districts": [
+      {
+        "entityName": "visakhapatnam",
+        "metric": {
+          "type": "TOTAL",
+          "count": 1256469,
+          "amount": 1.7499661965049949e9
+        }
+      },
+      {
+        "entityName": "east godavari",
+        "metric": {
+          "type": "TOTAL",
+          "count": 943935,
+          "amount": 1.2357855155997267e9
+        }
+      },
+      {
+        "entityName": "krishna",
+        "metric": {
+          "type": "TOTAL",
+          "count": 863935,
+          "amount": 1.2842551796156201e9
+        }
+      },
+      {
+        "entityName": "chittoor",
+        "metric": {
+          "type": "TOTAL",
+          "count": 830324,
+          "amount": 1.0096218780870512e9
+        }
+      },
+      {
+        "entityName": "guntur",
+        "metric": {
+          "type": "TOTAL",
+          "count": 815932,
+          "amount": 1.1086865890266826e9
+        }
+      },
+      {
+        "entityName": "kurnool",
+        "metric": {
+          "type": "TOTAL",
+          "count": 679623,
+          "amount": 7.649052987350456e8
+        }
+      },
+      {
+        "entityName": "anantapur",
+        "metric": {
+          "type": "TOTAL",
+          "count": 638664,
+          "amount": 7.888306460324218e8
+        }
+      },
+      {
+        "entityName": "west godavari",
+        "metric": {
+          "type": "TOTAL",
+          "count": 577090,
+          "amount": 8.535476687532666e8
+        }
+      },
+      {
+        "entityName": "prakasam",
+        "metric": {
+          "type": "TOTAL",
+          "count": 534757,
+          "amount": 7.489907758676486e8
+        }
+      },
+      {
+        "entityName": "spsr nellore",
+        "metric": {
+          "type": "TOTAL",
+          "count": 531612,
+          "amount": 6.766432378069417e8
+        }
+      }
+    ],
+    "pincodes": [
+      {
+        "entityName": "517501",
+        "metric": {
+          "type": "TOTAL",
+          "count": 110496,
+          "amount": 1.6348727884449506e8
+        }
+      },
+      {
+        "entityName": "520001",
+        "metric": {
+          "type": "TOTAL",
+          "count": 96883,
+          "amount": 1.706059005466873e8
+        }
+      },
+      {
+        "entityName": "515001",
+        "metric": {
+          "type": "TOTAL",
+          "count": 92754,
+          "amount": 1.3352231075704184e8
+        }
+      },
+      {
+        "entityName": "517507",
+        "metric": {
+          "type": "TOTAL",
+          "count": 88132,
+          "amount": 1.274500182101582e8
+        }
+      },
+      {
+        "entityName": "516001",
+        "metric": {
+          "type": "TOTAL",
+          "count": 84644,
+          "amount": 1.311942655243713e8
+        }
+      },
+      {
+        "entityName": "518502",
+        "metric": {
+          "type": "TOTAL",
+          "count": 82421,
+          "amount": 6.804030613881023e7
+        }
+      },
+      {
+        "entityName": "530016",
+        "metric": {
+          "type": "TOTAL",
+          "count": 81891,
+          "amount": 1.408809700990568e8
+        }
+      },
+      {
+        "entityName": "520010",
+        "metric": {
+          "type": "TOTAL",
+          "count": 69581,
+          "amount": 1.1900992197401813e8
+        }
+      },
+      {
+        "entityName": "516360",
+        "metric": {
+          "type": "TOTAL",
+          "count": 68340,
+          "amount": 1.0161211888480642e8
+        }
+      },
+      {
+        "entityName": "518501",
+        "metric": {
+          "type": "TOTAL",
+          "count": 68193,
+          "amount": 8.100651271677604e7
+        }
+      }
+    ]
+  },
+  "responseTimestamp": 1630501487199
+}
